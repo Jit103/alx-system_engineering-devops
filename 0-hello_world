@@ -1,0 +1,6 @@
+julien@ubuntu:/tmp/h$ ./0-hello_world
+Hello, World
+julien@ubuntu:/tmp/h$ ./0-hello_world |  c
+at-e
+Hello, World$
+julien@ubuntu:/tmp/h$
